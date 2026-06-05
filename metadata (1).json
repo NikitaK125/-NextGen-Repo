@@ -1,0 +1,8 @@
+{
+  "name": "GitHub AI and ML Python Project Co-Pilot",
+  "description": "An interactive AI-powered simulator and advisor that generates highly customized Python AI/ML projects for GitHub, complete with commit checklists, system architecture, requirements.txt, and complete starter python templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
